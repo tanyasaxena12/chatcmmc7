@@ -124,7 +124,8 @@ const Cmmcapi = () => {
                 console.error('Failed to connect to the server:', error);
                 setMessages(msgs => [...msgs, { text: "Failed to connect to the server.", fromUser: false }]);
             }
-        }
+        };
+        
     };
 
     return (
