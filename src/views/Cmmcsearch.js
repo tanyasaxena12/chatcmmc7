@@ -20,9 +20,7 @@ const Cmmcsearch = () => {
                 triggerId="searchWidgetTrigger">
               </gen-search-widget>
 
-
               <input placeholder="Search here" id="searchWidgetTrigger" />
-
 
             </Row>
           </CardBody>

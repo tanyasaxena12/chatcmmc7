@@ -1,6 +1,4 @@
 
-
-
 .chat-body {
     height: 400px; /* Adjust based on your design */
     overflow-y: auto;
@@ -28,5 +26,3 @@
     align-self: flex-start;
     margin-right: 30%;
   }
-
-
